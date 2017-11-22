@@ -1,8 +1,8 @@
 # Grundreisser
 
-Grundreisser is a floor and furnishing planner developed by a group Elizabeth Schneiß, Jonas Theis and Rahel Habacker during our studies at the RheinMain University of Applied Sciences. The development took place in a fifth semester course called Software Engineering Project lectured by Prof. Dr. Wolfgang Weitz in summer 2015.
+Grundreisser is a floor and furnishing planner developed by a group Elizabeth Schneiß, Jonas Theis and Rahel Habacker during our studies at the RheinMain University of Applied Sciences. The development took place in a fourth semester course called Software Engineering lectured by Prof. Dr. Wolfgang Weitz in Winter 2014.
 
-You can browse the [javadoc](https://redhilarious.github.io/WalkingSkeleton/documentation/server/index.html) for further information.
+You can browse the [javadoc](https://redhilarious.github.io/Grundreisser/doc/index.html) for further information.
 
 ## Screenshots
 
