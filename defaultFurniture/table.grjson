@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"form": "r",
+	"placeRule": "Above",
+	"name": "Esstisch",
+	"xPos": 500,
+	"yPos": 500,
+	"xLength": 150,
+	"yLength": 100,
+	"angle": 0,
+	"texturePath": "textures/table.jpg"
+}

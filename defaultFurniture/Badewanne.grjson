@@ -1,0 +1,14 @@
+{
+  "form": "r",
+  "placeRule": "Above",
+  "color": {},
+  "id": 6,
+  "name": "Badewanne",
+  "xPos": 600,
+  "yPos": 600,
+  "xLength": 200,
+  "yLength": 90,
+  "angle": 0.0,
+  "myFloor": {},
+  "texturePath": "textures/badewanne.jpg"
+}

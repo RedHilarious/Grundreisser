@@ -1,0 +1,12 @@
+{
+	"id": 3,
+	"form": "r",
+	"placeRule": "Above",
+	"name": "Bett",
+	"xPos": 500,
+	"yPos": 500,
+	"xLength": 200,
+	"yLength": 100,
+	"angle": 0,
+	"texturePath": "textures/bett.jpg"
+}

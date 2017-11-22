@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"form": "r",
+	"placeRule": "Above",
+	"name": "Stuhl",
+	"xPos": 500,
+	"yPos": 500,
+	"xLength": 60,
+	"yLength": 60,
+	"angle": 0,
+	"texturePath": "textures/chair1.jpg"
+}

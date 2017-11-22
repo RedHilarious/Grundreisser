@@ -1,0 +1,14 @@
+{
+  "form": "r",
+  "placeRule": "Above",
+  "color": {},
+  "id": 5,
+  "name": "Sofa",
+  "xPos": 200,
+  "yPos": 200,
+  "xLength": 50,
+  "yLength": 200,
+  "angle": 0.0,
+  "myFloor": {},
+  "texturePath": "textures/sofa2.jpg"
+}

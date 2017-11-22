@@ -1,0 +1,14 @@
+{
+  "form": "r",
+  "placeRule": "Above",
+  "color": {},
+  "id": 4,
+  "name": "Pflanze",
+  "xPos": 200,
+  "yPos": 200,
+  "xLength": 30,
+  "yLength": 30,
+  "angle": 0.0,
+  "myFloor": {},
+  "texturePath": "textures/pflanze.jpg"
+}
